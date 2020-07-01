@@ -17,7 +17,7 @@ This repository offers a public space for new contributors to practice interacti
 
 * [Report an issue](issues)
 * [Create a file](https://github.com/rDuckDev/hello-floss/new/master)
-* [Discuss changes](pulls)
+* [Discuss new files](pulls)
 
 
 ## License
