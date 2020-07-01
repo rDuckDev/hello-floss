@@ -1,6 +1,11 @@
 # Hello FLOSS
 
-A public space for new contributors to practice submitting issues, proposing changes, or exploring a project.
+This repository offers a public space for new contributors to practice interacting with a FLOSS project. Explore the project, submit an issue (real or imaginary), and propose changes. As your first contribution:
+
+* [Create a file](https://github.com/rDuckDev/hello-floss/new/master)
+* Name your file `<user>.md`, replacing `<user>` with your GitHub username
+* Write a short explanation of why you are learning about FLOSS
+* Click `Commit new file`
 
 ## Prerequisites
 
@@ -11,8 +16,8 @@ A public space for new contributors to practice submitting issues, proposing cha
 ## Contributing
 
 * [Report an issue](issues)
-* [Suggest new changes](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-* [Discuss existing changes](pulls)
+* [Create a file](https://github.com/rDuckDev/hello-floss/new/master)
+* [Discuss changes](pulls)
 
 
 ## License
