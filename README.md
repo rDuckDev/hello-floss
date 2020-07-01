@@ -2,8 +2,6 @@
 
 ## Prerequisites
 
-Please remember to:
-
 * Be appropriate
 * Be polite
 * Be patient
