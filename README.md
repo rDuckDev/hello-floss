@@ -1,5 +1,7 @@
 # Hello FLOSS
 
+A public space for new contributors to practice submitting issues, proposing changes, or exploring a project.
+
 ## Prerequisites
 
 * Be appropriate
